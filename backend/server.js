@@ -1,0 +1,10 @@
+DB_USER=root
+DB_PASS=diva1234
+DB_DATABASE=open_api_event
+DB_HOST=localhost
+DB_DIALECT=mysql
+DB_PORT=3380
+
+DB_DATABASE_TEST=nama_database_test
+
+DB_DATABASE_PROD=nama_database_production
